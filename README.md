@@ -127,17 +127,22 @@ Imitation learning dual-jaw gripper for manipulation of delicate, irregular bio-
 
 ## ◈ Selected Publications
 
-| Year | Journal / Venue | Paper |
-|------|----------------|-------|
-| 2026 | **CVPR MetaFood** | [MyoVision: NEATBoost attention ensemble for myopathy detection](https://chinnu0007.github.io/) |
-| 2026 | **Frontiers in AI** `IF 4.7` | [Portable EIS biosensing with DRT-ML for E. coli O157:H7](https://doi.org/10.3389/frai.2026.1741144) |
-| 2025 | **Food Research Intl.** `IF 8.0` | [Thermal detection of plastic contaminants in poultry](https://doi.org/10.1016/j.foodres.2025.117993) |
-| 2025 | **Sensors International** | [Palm-size wireless piezoelectric immunosensor for E. coli](https://doi.org/10.1016/j.sintl.2025.100341) |
-| 2025 | **AgriEngineering** `IF 3.0` | [Laser scanning for depth-aware instance segmentation](https://doi.org/10.3390/agriengineering7030077) |
-| 2024 | **AI in Agriculture** `IF 12.4` | [NAS-WD for chicken woody breast classification](https://doi.org/10.1016/j.aiia.2024.11.003) |
-| 2023 | **Book Chapter** | [Non-invasive machine vision for meat & fish quality](https://doi.org/10.52305/IXDB2323) |
+<table>
+<thead>
+<tr><th>Year</th><th>Journal / Venue</th><th>Paper</th></tr>
+</thead>
+<tbody>
+<tr><td>2026</td><td><strong>CVPR MetaFood</strong></td><td><a href="https://chinnu0007.github.io/" target="_blank">MyoVision: NEATBoost attention ensemble for myopathy detection</a></td></tr>
+<tr><td>2026</td><td><strong>Frontiers in AI</strong> <code>IF 4.7</code></td><td><a href="https://doi.org/10.3389/frai.2026.1741144" target="_blank">Portable EIS biosensing with DRT-ML for E. coli O157:H7</a></td></tr>
+<tr><td>2025</td><td><strong>Food Research Intl.</strong> <code>IF 8.0</code></td><td><a href="https://doi.org/10.1016/j.foodres.2025.117993" target="_blank">Thermal detection of plastic contaminants in poultry</a></td></tr>
+<tr><td>2025</td><td><strong>Sensors International</strong></td><td><a href="https://doi.org/10.1016/j.sintl.2025.100341" target="_blank">Palm-size wireless piezoelectric immunosensor for E. coli</a></td></tr>
+<tr><td>2025</td><td><strong>AgriEngineering</strong> <code>IF 3.0</code></td><td><a href="https://doi.org/10.3390/agriengineering7030077" target="_blank">Laser scanning for depth-aware instance segmentation</a></td></tr>
+<tr><td>2024</td><td><strong>AI in Agriculture</strong> <code>IF 12.4</code></td><td><a href="https://doi.org/10.1016/j.aiia.2024.11.003" target="_blank">NAS-WD for chicken woody breast classification</a></td></tr>
+<tr><td>2023</td><td><strong>Book Chapter</strong></td><td><a href="https://doi.org/10.52305/IXDB2323" target="_blank">Non-invasive machine vision for meat & fish quality</a></td></tr>
+</tbody>
+</table>
 
-<div align="right"><a href="https://scholar.google.com/citations?user=JYL8F98AAAAJ&hl=en">View all on Google Scholar →</a></div>
+<div align="right"><a href="https://scholar.google.com/citations?user=JYL8F98AAAAJ&hl=en" target="_blank">View all on Google Scholar →</a></div>
 
 ---
 

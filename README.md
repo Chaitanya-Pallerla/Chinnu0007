@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=220&section=header&text=Chaitanya%20Kumar%20Reddy%20Pallerla&fontSize=38&fontColor=00f5c4&animation=fadeIn&fontAlignY=38&desc=PhD%20Candidate%20%E2%80%A2%20Food%20Science%20%E2%80%A2%20University%20of%20Arkansas&descAlignY=58&descSize=16&descColor=a0aec0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3d1a00,100:0d1117&height=220&section=header&text=Chaitanya%20Kumar%20Reddy%20Pallerla&fontSize=38&fontColor=ff8c42&animation=fadeIn&fontAlignY=38&desc=PhD%20Candidate%20%E2%80%A2%20Food%20Science%20%E2%80%A2%20University%20of%20Arkansas&descAlignY=58&descSize=16&descColor=a0aec0" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=00F5C4&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=60&lines=🔬+Hyperspectral+Imaging+%7C+Machine+Learning+%7C+Robotics;🍗+AI+for+Food+Quality+%26+Safety+%7C+SAFE+Lab%2C+UARK)](https://chinnu0007.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=FF8C42&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=60&lines=🔬+Hyperspectral+Imaging+%7C+Machine+Learning+%7C+Robotics;🍗+AI+for+Food+Quality+%26+Safety+%7C+SAFE+Lab%2C+UARK)](https://chinnu0007.github.io/)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Chinnu0007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f5c4&icon_color=00f5c4&text_color=8b949e&ring_color=00f5c4" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Chinnu0007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8c42&icon_color=ff8c42&text_color=8b949e&ring_color=ff8c42" />
 
 ### `whoami`
 
@@ -185,8 +185,8 @@ Imitation learning dual-jaw gripper for manipulation of delicate, irregular bio-
 
 **Open to faculty positions · collaborations · industry partnerships**
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20Portfolio-chinnu0007.github.io-00f5c4?style=for-the-badge&labelColor=0d1117)](https://chinnu0007.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20Portfolio-chinnu0007.github.io-ff8c42?style=for-the-badge&labelColor=0d1117)](https://chinnu0007.github.io/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3d1a00,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>

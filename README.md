@@ -28,9 +28,6 @@
 name     : Chaitanya Kumar Reddy Pallerla
 role     : PhD Candidate — Food Science
 lab      : SAFE Lab, University of Arkansas
-advisor  : Dr. Dongyi Wang
-location : Fayetteville, AR, USA
-grad     : Summer 2026 (Expected)
 ```
 
 ```yaml

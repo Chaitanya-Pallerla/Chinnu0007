@@ -101,7 +101,7 @@ FLIR-based inline detection of transparent plastic contaminants in poultry. Comb
 <tr>
 <td valign="top" width="50%">
 
-**[Fusion-PointNet]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6352005])** &nbsp;·&nbsp; `COMPAG (Under Review)`
+**[Fusion-PointNet](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6352005)** &nbsp;·&nbsp; `COMPAG (Under Review)`
 
 Smartphone depth-aware transillumination + LiDAR fusion. **88.05% accuracy**, 5.6 pp gain over 2D-only baseline.
 

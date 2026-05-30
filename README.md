@@ -182,7 +182,7 @@ Imitation learning dual-jaw gripper for manipulation of delicate, irregular bio-
 
 **Open to faculty positions · collaborations · industry partnerships**
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20Portfolio-chaitanya-pallerla.github.io-ff8c42?style=for-the-badge&labelColor=0d1117)](https://chaitanya-pallerla.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-ff8c42?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chaitanya-pallerla.github.io/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3d1a00,100:0d1117&height=100&section=footer" width="100%" />
 

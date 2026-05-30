@@ -61,7 +61,7 @@ research :
 <tr>
 <td valign="top" width="50%">
 
-**[MyoVision](https://chinnu0007.github.io/)** &nbsp;·&nbsp; `CVPR MetaFood 2026`
+**[MyoVision](https://arxiv.org/abs/2604.13456)** &nbsp;·&nbsp; `CVPR MetaFood 2026`
 
 Real-time myopathy detection via iPhone 16 Pro LiDAR + TrueDepth. NEATBoost-Attention ensemble achieving **89.87% accuracy** across 3 myopathy classes.
 
@@ -70,7 +70,7 @@ Real-time myopathy detection via iPhone 16 Pro LiDAR + TrueDepth. NEATBoost-Atte
 </td>
 <td valign="top" width="50%">
 
-**[NEAT-WaveFormer](https://chinnu0007.github.io/)** &nbsp;·&nbsp; `In Preparation`
+**[NEAT-WaveFormer]** &nbsp;·&nbsp; `In Preparation`
 
 Dual-channel VIS+NIR hyperspectral (400–1700 nm) microbial classification across **7 classes** with Confidence-Gated Ensemble fusion.
 
@@ -101,7 +101,7 @@ FLIR-based inline detection of transparent plastic contaminants in poultry. Comb
 <tr>
 <td valign="top" width="50%">
 
-**[Fusion-PointNet](https://chinnu0007.github.io/)** &nbsp;·&nbsp; `COMPAG (Under Review)`
+**[Fusion-PointNet]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6352005])** &nbsp;·&nbsp; `COMPAG (Under Review)`
 
 Smartphone depth-aware transillumination + LiDAR fusion. **88.05% accuracy**, 5.6 pp gain over 2D-only baseline.
 

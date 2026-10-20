@@ -26,7 +26,7 @@
 
 ```yaml
 name     : Chaitanya Kumar Reddy Pallerla
-role     : PhD Candidate — Food Science
+role     : PhD — Food Science
 lab      : SAFE Lab, University of Arkansas
 ```
 
@@ -49,7 +49,7 @@ research :
 
 | 📄 Publications | 🎤 Conferences | 🏅 Award | 💰 Grant Supported |
 |:-:|:-:|:-:|:-:|
-| **15** | **13** | **3rd Place · AAFP 2025** | **$299,964 · USDA NIFA** |
+| **13** | **13** | **3rd Place · AAFP 2025** | **$299,964 · USDA NIFA** |
 
 </div>
 
@@ -173,7 +173,6 @@ Imitation learning dual-jaw gripper for manipulation of delicate, irregular bio-
 [Dec 2025]  USDA-NIFA News feature — Autonomous Pathogen Detection Rover
 [Sep 2025]  🏅 3rd Place Poster Award — AAFP 17th Annual Meeting
 [Jul 2025]  Oral presentation — ASABE Annual International Meeting
-[2024]      M.S. earned (GPA: 3.739) — continuing as PhD Candidate
 ```
 
 ---

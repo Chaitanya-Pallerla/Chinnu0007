@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-chinnu0007.github.io-00f5c4?style=flat-square&labelColor=0d1117)](https://chinnu0007.github.io/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00f5c4?style=flat-square&labelColor=0d1117)](https://chaitanya-pallerla.github.io/)
 [![Email](https://img.shields.io/badge/📧%20Email-pallerla%40uark.edu-e05d44?style=flat-square&labelColor=0d1117)](mailto:pallerla@uark.edu)&nbsp;
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white&labelColor=0d1117)](https://scholar.google.com/citations?user=JYL8F98AAAAJ&hl=en)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/chaitanya-kumar-reddy-pallerla-204835248)&nbsp;
